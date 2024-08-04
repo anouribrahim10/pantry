@@ -170,7 +170,7 @@ export default function Home() {
       <Box width="800px" height="60vh" overflow="auto" border="1px solid #333" mt={2}>
         <Box width="100%" height="100px" bgcolor="#22223b" display="flex" alignItems="center" justifyContent="center">
           <Typography variant="h2" color="white">
-            Inventory Items
+            Pantry Items
           </Typography>
         </Box>
         <Stack>
